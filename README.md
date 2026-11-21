@@ -1,11 +1,10 @@
-
 <div align="center">
 
-# Hamza Elsawy
+# 👋 Hello, I'm Hamza Elsawy
 
-### Computer Science Student | Embedded Systems | Cyber Security
+### 💻 Computer Science Student | Embedded Systems | Cyber Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;Cyber+Security+Learner;ESP32+%7C+Arduino+%7C+C%2B%2B;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Embedded+Systems+Enthusiast;Cyber+Security+Learner;Always+Learning+Something+New" />
 
 </div>
 
@@ -13,35 +12,32 @@
 
 <table>
 <tr>
-<td width="35%" valign="top" align="center">
+<td width="40%" align="center">
 
-<img src="https://github.com/YOUR_USERNAME.png" width="200" style="border-radius:50%;" />
+  <img width="735" height="488" alt="hello freind🌚💻" src="https://github.com/user-attachments/assets/eb52c112-85af-4282-881d-90d90714f1fa" />
 
-<br/>
 
-**Hamza Elsawy**
+<br><br>
 
-Computer Science Student
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/HAMZAWY">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="60%">
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at MTI University.
-- 🔐 Interested in Cyber Security and SOC Analysis.
-- ⚡ Passionate about Embedded Systems.
-- 🔧 Working with ESP32 and Arduino.
-- 🐧 Learning Linux, Networking and Security Tools.
-- 💻 Programming with C++, Python and JavaScript.
-- 🚀 Building projects and exploring new technologies.
+🎓 Computer Science Student
+
+💻 Interested in **Embedded Systems & Cyber Security**
+
+🔧 I enjoy building hardware and software projects.
+
+🌱 Currently learning and improving my programming skills.
+
+⚡ I like working with **Arduino, ESP32, C++, Python and Linux.**
 
 </td>
 </tr>
@@ -49,97 +45,63 @@ Computer Science Student
 
 ---
 
-## 🖥️ Featured Work
+# 🛠️ Skills
 
-<div align="center">
-
-### OSDOX Tool
-
-<img src="./assets/osdox-tool.jpg" width="100%" />
-
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
 </p>
 
-### Embedded Systems
+### 🔧 Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-ESP32 • Arduino • Electronics • Microcontrollers • Sensors
+`ESP32` • `Arduino` • `Sensors` • `Electronics` • `Embedded C/C++`
 
-### Cyber Security & Networking
+### 🐧 Cyber Security & Linux
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,kali"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
 </p>
 
-CCNA • Networking • Linux • Splunk • YARA • SOC Fundamentals
+`Networking` • `Linux` • `CCNA` • `Cyber Security Fundamentals`
 
-### Development Tools
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
 </p>
 
 ---
 
-## 🚀 My Projects
+# 🚀 Projects
 
-| Project | Description |
-|---|---|
-| 👻 Ghost | ESP32-S3 Multi-functional Hardware Project |
-| 🖥️ Web Development | HTML, CSS and JavaScript |
-| 🔐 Security Labs | Linux, Log Analysis and Security Tools |
-| ⚡ Embedded Systems | ESP32 and Arduino Projects |
+### 🔹 ESP32 Smart Home
 
----
+Smart home project using ESP32, sensors, LEDs and a buzzer.
 
-## 📊 GitHub Statistics
+### 🔹 Bluetooth Controlled Car
 
-<div align="center">
+Arduino-based car controlled using Bluetooth.
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+### 🔹 Web Development Projects
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+Web projects using HTML, CSS and JavaScript.
 
-<br/>
+### 🔹 Embedded Systems Projects
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+Different electronics and microcontroller projects using Arduino and ESP32.
 
 ---
 
-## 🤝 Connect With Me
+# 📚 Currently Learning
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### "Building. Learning. Exploring."
-
-</div>
+```text
+C++              ███████████████░░░░░
+Python            █████████████░░░░░░░
+Embedded Systems  █████████████░░░░░░░
+Cyber Security    ██████████░░░░░░░░░░
+Linux             ███████████░░░░░░░░░
