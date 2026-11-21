@@ -96,7 +96,14 @@ Web projects using HTML, CSS and JavaScript.
 Different electronics and microcontroller projects using Arduino and ESP32.
 
 ---
+## 🔥 GitHub Streak Stats
 
+<div align="center">
+
+<img width="70%"
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&border_radius=10"/>
+
+</div>
 # 📚 Currently Learning
 
 ```text
